@@ -4,7 +4,7 @@ Assignment
          So, if the condition is met and the rest of the conditions won’t affect the already evaluated result, the expression          will short-circuit and return that result.
 
    // 2. Demonstrate use of the Logical AND using the following comparison operators
-    // i. ===, >,>=,<,<=,!==
+   / // i. ===, >,>=,<,<=,!==
 
      AND with === and <
      const x = 10;

@@ -10,7 +10,7 @@
    //false to number 
       console.log(Number(true))
 
-// Convert these two strings to number and sum them const string1 ="1000"; const string2 = "2000"
+//// Convert these two strings to number and sum them const string1 ="1000"; const string2 = "2000"
     
     string1 = Number("1000")
     string2 = Number("2000")
