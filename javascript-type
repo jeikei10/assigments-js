@@ -1,8 +1,17 @@
 
-Bottom Value in Type System
+// 1. Bottom Value in Type System
 
-
-
+Is the type that has no values. It is also called the zero or empty type.
+Function whose return type is bottom cannot return any value, not even the zero size.(t is used to represent the return type of 
+a function that does not return a value: for instance, one which loops forever, signals an exception, or exits. )
 
 
 // 2. Floating Points representation
+
+     - using the parseFloat() function
+       example : var x = parseFloat("10")
+                 var y = parseFloat("10.00")
+                 var z = parseFloat("10.33")
+      
+       - using Number.parseFloat() function 
+         example :  var x = Number.parseFloat(10)
